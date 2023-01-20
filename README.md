@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @majduddin2007
 - 👀 I’m intrested in machine learnig 
-- 🌱 I’m machine learning
 - 💞️ I’m looking to collaborate on machine learning projects 
 - 📫 How to reach me  you can reach me via my email (majduddin2007@gmail.com)
 
